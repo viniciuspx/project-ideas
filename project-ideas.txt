@@ -1,0 +1,19 @@
+/*******************************************/
+
+		Project Ideas
+
+/*******************************************/
+
+¬  = Index and Date (yy/mm/dd)
+-> = Project Name
+SL = Suggested Programming Language
+-  = Main feature of the project
+^  = Hard features to implement
+
+/*******************************************/
+
+¬  2024-04-08
+-> Text-Editor based on Terminal
+	- edit and save texts
+	^ make multiple tabs (hard)
+	SL.: C/C++/Rust/Zig/Go
