@@ -17,3 +17,9 @@ SL = Suggested Programming Language
 	- edit and save texts
 	^ make multiple tabs (hard)
 	SL.: C/C++/Rust/Zig/Go
+
+¬  2024-04-09
+-> Lab Game based on Terminal
+	- lab text game based on terminal with start and finish goals
+	^ Easy project, made to learn languages
+	SL.: C/C++/Rust/Zig ... Any Language you want to learn
